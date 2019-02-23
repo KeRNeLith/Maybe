@@ -1,5 +1,6 @@
 ﻿using System;
 using JetBrains.Annotations;
+using static Here.ResultInternalHelpers;
 
 namespace Here.Extensions
 {
